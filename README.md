@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **MERN Stake Development**
+- 👯 I’m looking to collaborate on **MERN Stack Development**
 
 - 📫 How to reach me **rajahirwar38@gmail.com**
 
