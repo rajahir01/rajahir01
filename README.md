@@ -20,3 +20,5 @@
 
 
 [LeetCode Profile] (https://leetcard.jacoblin.cool/Raj_Ahirwar?theme=light&font=Jura)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
