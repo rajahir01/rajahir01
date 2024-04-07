@@ -19,5 +19,5 @@
 
 
 
-[LeetCode Profile](https://leetcard.jacoblin.cool/Raj_Ahirwar)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Raj_Ahirwar)
 
