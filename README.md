@@ -21,3 +21,6 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Raj_Ahirwar)
 
+
+![rajahirwar](https://road-to-kaggle-grandmaster.vercel.app/api/simple/rajahirwar)
+
