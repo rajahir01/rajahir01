@@ -22,6 +22,7 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Raj_Ahirwar)
 
 
-![alt](https://kaggle-summary-card.herokuapp.com/api?user=rajahirwar)
+<img src="https://kaggle-summary-card.herokuapp.com/api?user=rajahirwar" />
+
 
 
