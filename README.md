@@ -22,7 +22,6 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Raj_Ahirwar)
 
 
-![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?rajahirwar)
 
 
 
