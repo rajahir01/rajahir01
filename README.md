@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **React and NestJS Built in Projects**
 
-- 🌱 I’m currently learning **Machine Learning** and **Rust**
+- 🌱 I’m currently learning **Machine Learning** and **Go**
 
 - 👯 I’m looking to collaborate on **MERN Stack Development**
 
