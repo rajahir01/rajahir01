@@ -1,94 +1,97 @@
 <h1 align="center">Hi, I'm Raj Ahirwar</h1>
 
-<h3 align="center">AI Full-Stack Engineer | LLMs | RAG | Voice AI | Agentic Systems</h3>
+<h3 align="center">AI Full-Stack Engineer | Agentic RAG | Voice AI | LLM Applications</h3>
 
 <p align="center">
-I build production-grade AI applications combining <b>LLMs, Agentic RAG, Voice AI, backend systems, and full-stack engineering.</b>
+Building production-grade AI systems combining <b>LLMs, Agentic RAG, Voice AI, real-time systems, backend engineering and full-stack development.</b>
 </p>
 
 ---
 
-### What I Do
+### About Me
 
-- Build **LLM-powered applications, AI agents and Agentic RAG systems**
-- Design **RAG pipelines, semantic search, hybrid retrieval and reranking**
-- Build **real-time Voice AI** with streaming STT → LLM → TTS
-- Work with **MCP, tool calling, function calling and multi-agent systems**
-- Build and deploy **FastAPI, NestJS and Node.js backends**
-- Work with **open-source models, fine-tuning, LoRA, PyTorch and ONNX**
-- Deploy production AI systems using **AWS, Docker, Nginx, Linux and GPU infrastructure**
-- Focus on **latency, reliability, evaluation and production scalability**
-
-### Tech Stack
-
-**AI / ML**
-
-`Python` `PyTorch` `Transformers` `ONNX Runtime` `CUDA` `OpenAI` `Hugging Face` `LoRA` `SFT`
-
-**LLM / AI Engineering**
-
-`RAG` `Agentic RAG` `LangChain` `LangGraph` `MCP` `RAGAS` `Vector Search` `Reranking` `Tool Calling`
-
-**Voice AI**
-
-`Pipecat` `LiveKit` `Deepgram` `Cartesia` `Silero` `Streaming STT` `Streaming TTS`
-
-**Backend**
-
-`FastAPI` `Node.js` `NestJS` `Express` `TypeScript` `REST APIs` `WebSockets`
-
-**Frontend**
-
-`React` `Next.js` `Redux` `JavaScript` `TypeScript`
-
-**Databases**
-
-`MySQL` `MongoDB` `PostgreSQL` `Redis` `Qdrant` `LanceDB`
-
-**Cloud / DevOps**
-
-`AWS` `EC2` `S3` `Docker` `Nginx` `Linux` `PM2` `Git` `CI/CD`
+| Area | Focus |
+|---|---|
+| **AI / LLM** | LLMs, AI Agents, Agentic AI, RAG, Agentic RAG, Multi-Agent Systems, MCP, Tool Calling, Function Calling, Structured Outputs |
+| **RAG** | Semantic Search, Hybrid Search, BM25, Reranking, Query Rewriting, Query Expansion, Query Decomposition, HyDE, Corrective RAG, Self-RAG, Graph RAG, Knowledge Graphs |
+| **Voice AI** | Real-time Voice Agents, Streaming STT/TTS, Speech-to-Speech, LiveKit, Pipecat, Deepgram, Cartesia, Silero, VAD, Turn Detection, Barge-in |
+| **ML** | PyTorch, ONNX Runtime, CUDA, Transformers, Fine-tuning, LoRA, PEFT, SFT, Quantization, Embeddings, GPU Inference |
+| **Backend** | Python, FastAPI, Node.js, NestJS, Express, TypeScript, REST APIs, WebSockets, Microservices |
+| **Frontend** | React, Next.js, Redux, JavaScript, TypeScript |
+| **Databases** | MySQL, PostgreSQL, MongoDB, Redis, Qdrant, LanceDB, Vector Databases |
+| **Cloud / DevOps** | AWS, EC2, S3, Docker, Nginx, Linux, PM2, Git, GitHub, CI/CD, GPU Infrastructure |
+| **Research** | LLM Architecture, Transformers, Attention, Pre-training, SFT, RLHF, DPO, GRPO, LoRA, KV Cache, Speculative Decoding, MoE, Long Context, Multimodal AI |
 
 ---
 
-### Featured Work
+### AI Engineering
 
-**Omundi — Real-Time Multilingual Voice AI**
+```text
+Documents → Parsing → Chunking → Metadata → Embeddings
+          → Vector / Hybrid Search → Reranking
+          → Context Construction → LLM / Agent
+          → Tools / MCP → Response → Evaluation
+```
 
-Real-time agricultural voice assistant supporting European Portuguese and English.
-
-- Built streaming voice pipeline using **Pipecat, FastAPI, PyTorch and ONNX**
-- Self-hosted STT/TTS
-- Improved WER from **21.8% → 9.6%**
-- Built **100+ case evaluation harness**
-- Implemented conversation state and error recovery
-
-**HayyAI — AI Real Estate Platform**
-
-- Conversational AI and property search
-- RAG and vector search using **Qdrant**
-- Real-time Voice AI using **LiveKit, Deepgram and Cartesia**
-- Tool calling, RBAC and production backend systems
-
-**Wartin Labs AI Assistant**
-
-- Agentic RAG-based website assistant
-- Knowledge retrieval and website-aware context
-- Lead qualification and tool calling
-- Meeting booking and AI-driven sales workflows
-- Production deployment with **AWS, EC2, Nginx and Node.js**
+**Focus:** Retrieval Optimization · Semantic Chunking · Parent-Child Retrieval · Hierarchical Retrieval · Contextual Retrieval · Query Understanding · Groundedness · Faithfulness · Context Precision / Recall · LLM Observability · Guardrails
 
 ---
 
-### Currently Exploring
+### Voice AI
 
-`LLM Research` `Advanced RAG` `Agentic AI` `MCP` `LLM Training` `Fine-Tuning` `Inference Optimization` `Multimodal AI` `Voice AI`
+```text
+User Speech → Streaming STT → VAD / Turn Detection
+           → Conversation State → LLM / Agent
+           → Tool Calling → Streaming TTS → Audio
+```
+
+**Focus:** TTFA · TTFT · Streaming Inference · Audio Buffering · Interruptions · Barge-in · State Management · Error Recovery · Conversation Memory · Latency Optimization
 
 ---
 
-### Connect With Me
+### Agentic AI
 
-<p align="left">
+| Capability | Technologies / Concepts |
+|---|---|
+| **Agents** | Planning, Multi-step Tasks, Specialized Agents, Agent Orchestration |
+| **Tools** | MCP, APIs, Databases, Search, Function Calling |
+| **Memory** | Conversation State, Context Management, Knowledge Bases |
+| **RAG** | Retrieval, Reranking, Knowledge Graphs, Agentic Retrieval |
+| **Reliability** | Guardrails, Error Recovery, Evaluation, Observability |
+
+---
+
+### Selected Projects
+
+| Project | Work |
+|---|---|
+| **Omundi** | Real-time multilingual agricultural Voice AI · European Portuguese + English · Pipecat · FastAPI · PyTorch · ONNX · Self-hosted STT/TTS · WER **21.8% → 9.6%** · **100+ evaluation cases** · State management & error recovery |
+| **HayyAI** | AI real-estate platform · Conversational AI · RAG · Qdrant · Property Search · LiveKit · Deepgram · GPT · Cartesia · Voice AI · Tool Calling · DLD Integration · RBAC · Cognito / Auth0 · AWS |
+| **Wartin Labs AI Assistant** | Agentic RAG · Website-aware context · Knowledge Base · Lead Qualification · Tool Calling · Meeting Booking · Google Calendar / Meet · Streaming · Guardrails · Evaluation · Analytics · AWS / EC2 / Nginx |
+
+---
+
+### Production Engineering
+
+**Infrastructure:** AWS · EC2 · S3 · Docker · Nginx · PM2 · Linux · GPU Servers · CUDA
+
+**Backend:** FastAPI · NestJS · Node.js · REST · WebSockets · Microservices · Async Processing
+
+**AI Systems:** RAG · Vector Databases · LLM APIs · Streaming Pipelines · Tool Calling · Evaluation · Observability
+
+**Engineering Focus:** `Accuracy` · `Latency` · `Reliability` · `Scalability` · `Observability` · `Cost`
+
+---
+
+### Current Research
+
+`LLM Research` · `Advanced RAG` · `Agentic AI` · `MCP` · `LLM Training` · `Fine-Tuning` · `LoRA` · `Inference Optimization` · `Open-Source LLMs` · `Multimodal AI` · `Voice AI`
+
+---
+
+### Connect
+
+<p align="center">
 <a href="mailto:rajahirwar38@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
@@ -96,3 +99,5 @@ Real-time agricultural voice assistant supporting European Portuguese and Englis
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 </p>
+
+<p align="center"><b>Building AI systems from research → engineering → production.</b></p>
